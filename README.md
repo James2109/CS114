@@ -26,7 +26,7 @@
 
 | STT   | Họ tên                 | MSSV       | Email                  | 
 | :---: | ---                    | ---        | ---                    | 
-| 1     | <strong> Nguyễn Huỳnh Bảo Quốc </strong>  | 20520292   | 21522786@gm.uit.edu.vn |            
+| 1     | <strong> Nguyễn Huỳnh Bảo Quốc </strong>  | 20520292   | 20520292@gm.uit.edu.vn |            
 | 2     |<strong> Đinh Vũ Minh Nhật   | 21522414   | 21522414@gm.uit.edu.vn | 
 | 3     | <strong>Đào Nam Thuận         | 21522649   | 21522649@gm.uit.edu.vn | 
 
