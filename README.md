@@ -22,7 +22,7 @@
 * **Giảng viên:** Ths. Phạm Nguyễn Trường An - *truonganpn@uit.edu.vn*
 
 ## GIỚI THIỆU NHÓM
-* **Số thứ tự nhóm:** 12
+* **Số thứ tự nhóm:** N02
 
 | STT   | Họ tên                 | MSSV       | Email                  | 
 | :---: | ---                    | ---        | ---                    | 
